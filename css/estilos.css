@@ -1,0 +1,6 @@
+.cabecera{
+    background-color: antiquewhite;
+}
+.container .row .imagen-logo img{
+    max-width: 100px;
+}
